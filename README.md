@@ -48,3 +48,6 @@ Free at [console.groq.com](https://console.groq.com)
 - Temperature slider for creativity control
 - Download output as `.txt`
 - Regenerate with one click
+
+
+MADE BY DICYPR :)
